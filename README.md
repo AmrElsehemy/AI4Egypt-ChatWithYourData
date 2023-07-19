@@ -1,1 +1,3 @@
-# AI4Egypt-ChatWithPdf
+# AI4Egypt-ChatWithYourData
+
+Code companion for the session 
